@@ -42,10 +42,4 @@ Zustand is a minimalist, scalable alternative to Redux. It helps keep state logi
 
 ---
 
-## 🛠️ Folder Structure
 
-src/
-├── # ProductList, CartPage, etc.
-├── store/ # Zustand store files
-├── App.js # Main app routing
-└── index.js # App entry point
